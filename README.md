@@ -10,6 +10,6 @@ In this project, I focused on forecasting the mean temperature in London. I impo
 - Retrieved and stored the results of all MLflow runs as a variable.
 
 ## Models
-Linear Regression
-Decision Tree Regressor
-Random Forest Regressor
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
